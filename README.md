@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">👨‍💻 - Me chamo Artur Rebeschini, tenho 19 anos e sou natural de Carazinho - RS.<br><br>🖥 - Sou um jovem entusiasta da tecnologia, com facilidade de aprendizado e interesse em desenvolvimento de software. Possuo conhecimento básico em programação, e estou em constante busca por evolução na área. Comprometido, comunicativo e com boa capacidade de adaptação a novos desafios.<br><br>📚 - Atualmente estudando por conta própria e cursando Análise e Desenvolvimento de Sistemas, na UPF.<br><br>Confira meu LinkedIn:</p>
+<p align="left">Me chamo Artur Rebeschini, tenho 19 anos e sou natural de Carazinho - RS.<br><br>🖥 - Sou um jovem entusiasta da tecnologia, com facilidade de aprendizado e interesse em desenvolvimento de software. Possuo conhecimento básico em programação, e estou em constante busca por evolução na área. Comprometido, comunicativo e com boa capacidade de adaptação a novos desafios.<br><br>📚 - Atualmente estudando por conta própria e cursando Análise e Desenvolvimento de Sistemas, na UPF.<br><br>Confira meu LinkedIn:</p>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">👨‍💻 - I'm Artur Rebeschini, 19 years old, and I'm from Carazinho - RS, Brazil.<br><br>🖥 - I'm a young tech enthusiast, with a quick learning ability and a strong interest in software development. I have basic programming skills and I'm always looking to improve in the field. I'm committed, communicative, and adaptable to new challenges.<br><br>📚 - Right now, I'm self-studying and also pursuing a degree in Systems Analysis and Development at UPF.<br><br>Check out my LinkedIn:</p>
+<p align="left">I'm Artur Rebeschini, 19 years old, and I'm from Carazinho - RS, Brazil.<br><br>🖥 - I'm a young tech enthusiast, with a quick learning ability and a strong interest in software development. I have basic programming skills and I'm always looking to improve in the field. I'm committed, communicative, and adaptable to new challenges.<br><br>📚 - Right now, I'm self-studying and also pursuing a degree in Systems Analysis and Development at UPF.<br><br>Check out my LinkedIn:</p>
 
 ###
 
