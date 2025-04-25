@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">Sobre mim / About me</h3>
+<h3 align="left">💾 Sobre mim / About me</h3>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h3 align="left">🔥   Status :</h3>
+<h3 align="left">🗃️   Status :</h3>
 
 ###
 
