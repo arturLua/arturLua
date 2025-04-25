@@ -60,10 +60,6 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
 <h3 align="center">🗃 Status</h3>
 
 ###
