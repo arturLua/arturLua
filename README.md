@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"  />
-</div>
-
-###
-
 <h1 align="center">Hello, World! 😊</h1>
 
 ###
@@ -60,12 +54,8 @@
 
 ###
 
-<h3 align="center">🗃 Status</h3>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arturLua&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=false&order=2&custom_title=Languages%20used" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arturLua&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true&order=2&custom_title=Languages%20used" height="150" alt="languages graph"  />
 </div>
 
 ###
