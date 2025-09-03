@@ -20,7 +20,7 @@
 
 ###
 
-<p align="center">Contact me:</p>
+<h3 align="center">Contact me:</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/artur-rebeschini-18794b311/" target="_blank">
