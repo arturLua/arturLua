@@ -1,24 +1,16 @@
-<h1 align="center">Hello, World!</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=40&pause=1000&color=F7AF00&center=true&vCenter=true&width=1200&height=60&lines=Hello%2C+World!)](https://git.io/typing-svg)
+
+<h3 align="center">About me</h3>
 
 ###
 
-<h3 align="center">💾 About me</h3>
+<p align="justify">I'm a tech enthusiast building a solid foundation in programming, passionate about learning new technologies and expanding my skillset.</p>
+<p align="justify">Currently pursuing a degree in System Development at UPF, while actively exploring new tools and languages through self-study.</p>
+<p align="justify">I enjoy collaborating on projects and connecting with other developers. Always open to new challenges that help me grow in the software development world.</p>
 
 ###
 
-<p align="left">Young tech enthusiast. Basic programming skills and I'm always looking to improve in the field. Committed, communicative, and adaptable to new challenges.<br><br>📚 - Right now self-studying and also pursuing a degree in Systems Analysis and Development at UPF.<br><br>Check out my LinkedIn:</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/artur-rebeschini-18794b311/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="center">🛠 Languages and Tools</h3>
+<h3 align="center">Languages and Tools</h3>
 
 ###
 
@@ -27,3 +19,11 @@
 </div>
 
 ###
+
+<p align="center">Contact me:</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/artur-rebeschini-18794b311/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
