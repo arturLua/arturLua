@@ -6,7 +6,7 @@
 
 <p align="justify">I'm a tech enthusiast building a solid foundation in programming, passionate about learning new technologies and expanding my skillset.</p>
 <p align="justify">Currently pursuing a degree in System Development at UPF, while actively exploring new tools and languages through self-study.</p>
-<p align="justify">I enjoy collaborating on projects and connecting with other developers. Always open to new challenges that help me grow in the software development world.</p>
+<p align="justify">I'm open to collaborate on projects and connect with other developers.</p>
 
 ###
 
